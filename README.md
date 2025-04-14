@@ -24,15 +24,12 @@ The analysis confirms that:
 - Music listening behavior varies significantly by day of the week and between Springfield and Shelbyville.
 - These factors should be considered when analyzing user behavior on music platforms.
   
-### Descripción de las columnas:
+## 👀Descripción de las columnas:
 
-'userID': identifica de forma exclusiva a cada usuario o usuaria;
-'Track': título de la canción;
-'artist': nombre del artista;
-'genre': género musical;
-'City': ciudad del usuario o la usuaria;
-'time': hora del día en la que se reprodujo la pista (HH:MM:SS);
-'Day': día de la semana.
-Instrucciones para completar el proyecto
-Se te proporciona una plantilla del cuaderno, donde puedes escribir tu código y proporcionar descripciones de tu análisis. Para completar el proyecto, rellena cada celda de código en la plantilla y edita las celdas Markdown donde la plantilla te pide que expliques tus resultados.
-
+- 'userID': identifica de forma exclusiva a cada usuario o usuaria;
+- 'Track': título de la canción;
+- 'artist': nombre del artista;
+- 'genre': género musical;
+- 'City': ciudad del usuario o la usuaria;
+- 'time': hora del día en la que se reprodujo la pista (HH:MM:SS);
+- 'Day': día de la semana.
